@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+langchain-mcp-adapters
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-ollama
+mcp
+requests
+tavily-python
